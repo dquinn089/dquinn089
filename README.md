@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dquinn089
 - 👀 I’m interested in becoming a developer, through expanding my knowledge and experience in the field of computer science.
-- 🌱 I’m currently learning Python, but still a beginner. I would like to explore other languages in ther future.
+- 🌱 I’m currently learning Python, but still a beginner. I would like to explore other languages in the future.
 - 💞️ I’m looking to collaborate on future projects and applications, and maybe help with potential bugs.
 - 📫 How to reach me, my email is dylanquinn089@gmail.com
 
